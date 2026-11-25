@@ -3,6 +3,10 @@
 ### Information Technology Graduate | Web Developer | AI Enthusiast
 
 > Information Technology graduate with a foundation in programming and web development. Built a clinical management website as a final year project and authored a published research paper on AI in Hotel Management. Eager to grow in an entry-level software, web development or AI-related role.
+### 📄 Research Publication
+**Application of AI in Hotel Management and its Effect, Benefit**
+Published in SCIR Journal, Women University Multan
+🔗 https://doi.org/10.52700/scir.v3i2.141
 
 📍 Shad Bagh, Lahore, Pakistan
 📧 hamzaiftikhar745@gmail.com
